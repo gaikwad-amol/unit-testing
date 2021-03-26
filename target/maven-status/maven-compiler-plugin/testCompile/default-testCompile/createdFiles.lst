@@ -1,0 +1,5 @@
+MyCacheTest.class
+CacheManagerIntegrationTest.class
+CacheManagerTest.class
+CacheManagerUsingMocksTest.class
+StubTable.class
